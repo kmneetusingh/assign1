@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "title": "Modern 2BHK Apartment",
+    "location": "Bandra, Mumbai",
+    "price": 12000000,
+    "type": "Apartment",
+    "bedrooms": "2BHK",
+    "area": "950 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/3e/81/a0/3e81a01029791e5c72731af4e4b19ec0.jpg",
+      "https://i.pinimg.com/1200x/c4/89/0e/c4890ef76f21c9d537fff4436d14fbe2.jpg",
+      "https://i.pinimg.com/1200x/e8/f9/e5/e8f9e58a80a20d67c4a19d987e0b14a5.jpg",
+      "https://i.pinimg.com/736x/a7/3f/b3/a73fb3cfeb725ef24e61589482b02e8e.jpg",
+      "https://i.pinimg.com/1200x/0a/d8/a9/0ad8a94ac7b2916115e6259bd8b9df03.jpg"
+    ],
+    "amenities": ["Gym", "Swimming Pool", "Parking"],
+    "description": "A beautiful modern apartment in the heart of Mumbai."
+  },
+  {
+    "id": 2,
+    "title": "Luxurious 3BHK Villa",
+    "location": "Koramangala, Bangalore",
+    "price": 25000000,
+    "type": "Villa",
+    "bedrooms": "3BHK",
+    "area": "2200 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/31/60/27/316027421f21de4e135622ab3f776012.jpg",
+      "https://i.pinimg.com/1200x/c2/e7/7b/c2e77b142ebbbaa0522d57c5e51c983d.jpg",
+      "https://i.pinimg.com/1200x/c2/e7/7b/c2e77b142ebbbaa0522d57c5e51c983d.jpg",
+      "https://i.pinimg.com/736x/cf/f5/6d/cff56d91fb9c5727835fb15f8983414e.jpg",
+      "https://i.pinimg.com/736x/ca/fa/af/cafaaf422b05f7dca8ce7f60535dfe36.jpg"
+    ],
+    "amenities": ["Garden", "Private Parking", "Terrace"],
+    "description": "Spacious villa with premium amenities and lush surroundings."
+  },
+  {
+    "id": 3,
+    "title": "Compact 1BHK Flat",
+    "location": "Noida Sector 62",
+    "price": 6000000,
+    "type": "Apartment",
+    "bedrooms": "1BHK",
+    "area": "600 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/64/3c/7e/643c7e1edc4a9f0a47436b362f3cf14a.jpg",
+      "https://i.pinimg.com/1200x/64/3c/7e/643c7e1edc4a9f0a47436b362f3cf14a.jpg",
+      "https://i.pinimg.com/1200x/64/3c/7e/643c7e1edc4a9f0a47436b362f3cf14a.jpg",
+      "https://i.pinimg.com/1200x/64/3c/7e/643c7e1edc4a9f0a47436b362f3cf14a.jpg",
+      "https://i.pinimg.com/1200x/64/3c/7e/643c7e1edc4a9f0a47436b362f3cf14a.jpg"
+    ],
+    "amenities": ["Security", "Parking"],
+    "description": "Perfect starter home or investment property."
+  },
+  {
+    "id": 4,
+    "title": "4BHK Luxury Penthouse",
+    "location": "Powai, Mumbai",
+    "price": 32000000,
+    "type": "Penthouse",
+    "bedrooms": "4BHK",
+    "area": "3500 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/c2/71/06/c27106e996e856b59759620561ccc7e7.jpg",
+      "https://i.pinimg.com/1200x/c2/71/06/c27106e996e856b59759620561ccc7e7.jpg",
+      "https://i.pinimg.com/1200x/c2/71/06/c27106e996e856b59759620561ccc7e7.jpg",
+      "https://i.pinimg.com/736x/0b/84/d5/0b84d5525f39999eb01fc278be7afc24.jpg",
+      "https://i.pinimg.com/736x/0b/84/d5/0b84d5525f39999eb01fc278be7afc24.jpg"
+    ],
+    "amenities": ["Pool", "Gym", "Clubhouse", "Rooftop"],
+    "description": "Top-floor luxury living with city views and modern interiors."
+  },
+  {
+    "id": 5,
+    "title": "2BHK Apartment with Balcony",
+    "location": "Kalyan, Thane",
+    "price": 8000000,
+    "type": "Apartment",
+    "bedrooms": "2BHK",
+    "area": "900 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/55/d6/c5/55d6c57c1f8debea22bb6a08cb727131.jpg",
+      "https://i.pinimg.com/1200x/55/d6/c5/55d6c57c1f8debea22bb6a08cb727131.jpg",
+      "https://i.pinimg.com/736x/73/48/6f/73486f2a202cbb124ff98f5733331d62.jpg",
+      "https://i.pinimg.com/736x/73/48/6f/73486f2a202cbb124ff98f5733331d62.jpg",
+      "https://i.pinimg.com/736x/73/48/6f/73486f2a202cbb124ff98f5733331d62.jpg"
+    ],
+    "amenities": ["Balcony", "Kids Play Area"],
+    "description": "Cozy home ideal for families, near major transport routes."
+  },
+  {
+    "id": 6,
+    "title": "1RK Studio Apartment",
+    "location": "Hadapsar, Pune",
+    "price": 4500000,
+    "type": "Studio",
+    "bedrooms": "1RK",
+    "area": "400 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/91/d3/da/91d3da428e0b55198563caad7b5d32b5.jpg",
+      "https://i.pinimg.com/1200x/91/d3/da/91d3da428e0b55198563caad7b5d32b5.jpg",
+      "https://i.pinimg.com/736x/db/8b/10/db8b10af18871ca2b1b3a14a0e0b24bf.jpg",
+      "https://i.pinimg.com/736x/db/8b/10/db8b10af18871ca2b1b3a14a0e0b24bf.jpg",
+      "https://i.pinimg.com/736x/db/8b/10/db8b10af18871ca2b1b3a14a0e0b24bf.jpg"
+    ],
+    "amenities": ["Elevator", "CCTV"],
+    "description": "Minimalist studio perfect for students or bachelors."
+  },
+  {
+    "id": 7,
+    "title": "Classic 3BHK Independent House",
+    "location": "Whitefield, Bangalore",
+    "price": 18000000,
+    "type": "House",
+    "bedrooms": "3BHK",
+    "area": "1800 sqft",
+    "images": [
+      "https://i.pinimg.com/736x/c2/5b/3c/c25b3cb63383a214fbbc91cf99d14d68.jpg",
+      "https://img.staticmb.com/mbcontent/images/uploads/2022/12/Best%20House%20Design%20For%203BHK%20House.jpg",
+      "https://housing.com/news/wp-content/uploads/2022/11/All-about-3-bedroom-house-designs-FEATURE-compressed.jpg",
+      "https://i.pinimg.com/736x/fe/cd/20/fecd209b75dae58d3830cb35da19bfdc.jpg",
+      ""
+    ],
+    "amenities": ["Parking", "Terrace", "Garden"],
+    "description": "Independent house in a peaceful locality, ideal for families."
+  },
+  {
+    "id": 8,
+    "title": "Budget 2BHK Flat",
+    "location": "Rohini, Delhi",
+    "price": 7200000,
+    "type": "Plot",
+    "bedrooms": "4BHK",
+    "area": "850 sqft",
+    "images": [
+      "https://i.pinimg.com/736x/db/8b/10/db8b10af18871ca2b1b3a14a0e0b24bf.jpg",
+      "https://i.pinimg.com/736x/db/8b/10/db8b10af18871ca2b1b3a14a0e0b24bf.jpg",
+      "https://i.pinimg.com/736x/db/8b/10/db8b10af18871ca2b1b3a14a0e0b24bf.jpg"
+    ],
+    "amenities": ["Lift", "Security"],
+    "description": "Affordable 2BHK in a well-connected area."
+  },
+  {
+    "id": 9,
+    "title": "Elegant 3BHK with View",
+    "location": "Rajouri Garden, Delhi",
+    "price": 16000000,
+    "type": "Apartment",
+    "bedrooms": "3BHK",
+    "area": "1600 sqft",
+    "images": [
+      "https://i.pinimg.com/736x/cd/b9/cd/cdb9cd3a8b447e16b19289db8a8978a9.jpg",
+      "https://i.pinimg.com/736x/cd/b9/cd/cdb9cd3a8b447e16b19289db8a8978a9.jpg",
+      "https://i.pinimg.com/736x/f4/16/69/f4166998e945c62eb55e89e3563fa80c.jpg",
+      "https://i.pinimg.com/736x/13/0a/e2/130ae27df58a5e8600681c2bd02dd5a7.jpg",
+      "https://i.pinimg.com/736x/13/0a/e2/130ae27df58a5e8600681c2bd02dd5a7.jpg"
+    ],
+    "amenities": ["Balcony", "Gym", "Clubhouse"],
+    "description": "Scenic apartment with spacious layout and premium finishes."
+  },
+  {
+    "id": 10,
+    "title": "Compact 1BHK Near Metro",
+    "location": "Navi Mumbai",
+    "price": 5200000,
+    "type": "Apartment",
+    "bedrooms": "1BHK",
+    "area": "550 sqft",
+    "images": [
+           "https://i.pinimg.com/1200x/44/2d/e3/442de3cc056609af21bf22aa1abce0f8.jpg",
+           "https://i.pinimg.com/1200x/44/2d/e3/442de3cc056609af21bf22aa1abce0f8.jpg"
+    ],
+    "amenities": ["Lift", "Power Backup"],
+    "description": "Smartly designed flat near metro for easy commute."
+  },
+  {
+    "id": 11,
+    "title": "Spacious 4BHK Bungalow",
+    "location": "Gurgaon Sector 56",
+    "price": 34000000,
+    "type": "Bungalow",
+    "bedrooms": "4BHK",
+    "area": "4000 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/c2/71/06/c27106e996e856b59759620561ccc7e7.jpg",
+      "https://i.pinimg.com/1200x/c2/71/06/c27106e996e856b59759620561ccc7e7.jpg",
+      "https://i.pinimg.com/736x/0b/84/d5/0b84d5525f39999eb01fc278be7afc24.jpg",
+      "https://i.pinimg.com/736x/0b/84/d5/0b84d5525f39999eb01fc278be7afc24.jpg"
+    ],
+    "amenities": ["Private Lawn", "Servant Room", "Car Parking"],
+    "description": "Exclusive bungalow with high-end design and large green spaces."
+  },
+  {
+    "id": 12,
+    "title": "Affordable Studio Room",
+    "location": "Indore",
+    "price": 3500000,
+    "type": "Studio",
+    "bedrooms": "Studio",
+    "area": "350 sqft",
+    "images": [
+      "https://i.pinimg.com/1200x/cd/f0/da/cdf0dace21fa65c46d27877081827883.jpg",
+      "https://i.pinimg.com/1200x/cd/f0/da/cdf0dace21fa65c46d27877081827883.jpg",
+      "https://i.pinimg.com/1200x/db/55/75/db5575f787ce8322632b14e41976b036.jpg",
+      "https://i.pinimg.com/1200x/db/55/75/db5575f787ce8322632b14e41976b036.jpg"
+    ],
+    "amenities": ["Water Supply", "Security", "Lift"],
+    "description": "Budget-friendly studio for working professionals or students."
+  }
+]

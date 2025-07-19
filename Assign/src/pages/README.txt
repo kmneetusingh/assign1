@@ -1,0 +1,2 @@
+# Reminder
+Add your property images to the src/assets/ folder and update the image paths in src/api/properties.json accordingly. You can use placeholder images from Unsplash or Lorem Picsum if needed. 
