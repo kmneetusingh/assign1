@@ -6,12 +6,6 @@ A responsive and scalable frontend for a mock real estate platform built with **
 
 🔗 [**Deployed on Vercel**](https://your-deployment-link.vercel.app)
 
-## 📁 Repository
-
-🔗 [**GitHub Repository**](https://github.com/yourusername/real-estate-ui)
-
----
-
 ## 🖥️ Features
 
 ### 1. **Homepage** `/`
@@ -69,7 +63,11 @@ A responsive and scalable frontend for a mock real estate platform built with **
 
 ### Homepage
 
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](## 📁 Repository
+
+🔗 [**GitHub Repository**](https://github.com/yourusername/real-estate-ui)
+
+---)
 
 ### Property Details
 
