@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/a15ba3e2-95cd-4763-97dc-31696638f315
 
 ---
 
-## ⚙️ Optional Enhancements (Bonus)
+## ⚙️ Optional Enhancements
 
 * ✅ **State Management** with **Zustand** (optional)
 * ✅ Loading skeletons using **react-loading-skeleton**
