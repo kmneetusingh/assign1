@@ -3,7 +3,6 @@ import PropertyCard from "../components/PropertyCard";
 import Filters from "../components/Filters";
 import propertiesData from "../api/properties.json";
 import { motion } from "framer-motion";
-import { Helmet } from "react-helmet-async";
 
 const Home = () => {
   const [filters, setFilters] = useState({
@@ -62,24 +61,6 @@ const Home = () => {
 
   return (
     <div className="max-w-6xl mx-auto p-4">
-      <Helmet>
-        <title>Explore Properties | Real Estate Listings</title>
-        <meta
-          name="description"
-          content="Browse affordable apartments, villas, and plots with filters for budget, type, and bedrooms. Built with React.js and Tailwind CSS."
-        />
-        <meta property="og:title" content="Real Estate Property Listings" />
-        <meta
-          property="og:description"
-          content="Find your dream property from our collection of apartments, villas, and plots."
-        />
-        <meta
-          property="og:image"
-          content="https://yourdomain.com/assets/og-image.jpg"
-        />
-        <meta property="og:url" content="https://yourdomain.com/" />
-      </Helmet>
-
       <Filters filters={filters} onChange={handleFilterChange} />
 
       {loading ? (
