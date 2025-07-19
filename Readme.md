@@ -3,7 +3,7 @@
 A responsive and scalable frontend for a mock real estate platform built with **React.js**. This project showcases properties in a grid layout, detailed view pages, a favorites system, and essential filters — simulating a real-world property listing interface.
 
 ## 🚀 Live Demo
-
+https://github.com/user-attachments/assets/a6cd8ff4-faa6-4e1f-bab9-042233ea2b8b
 🔗 [**Deployed on Vercel**](https://assign1-rho.vercel.app/)
 
 ## 🖥️ Features
@@ -75,23 +75,6 @@ A responsive and scalable frontend for a mock real estate platform built with **
 ![Favorites Page](https://github.com/user-attachments/assets/d5e9b541-86c9-4965-8939-ce42cf9a510e)
 
 ---
-
-## 🛠️ How to Run Locally
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/real-estate-ui.git
-cd real-estate-ui
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
-```
-
----
-
 ## 📦 Folder Structure
 
 ```
@@ -110,3 +93,4 @@ src/
 ├── App.jsx
 ├── main.jsx
 ```
+## Thanks...
