@@ -4,6 +4,7 @@ import propertiesData from "../api/properties.json";
 import PropertyCarousel from "../components/PropertyCarousel";
 import MapView from "../components/MapView";
 import EnquiryForm from "../components/EnquiryForm";
+import { Helmet } from "react-helmet-async"; // ✅ Helmet for SEO
 
 const PropertyDetails = () => {
   const { id } = useParams();
@@ -20,6 +21,20 @@ const PropertyDetails = () => {
 
   return (
     <div className="pt-20 sm:pt-24 px-4 sm:px-6 lg:px-8 bg-white min-h-screen">
+      {/* ✅ Dynamic SEO Meta Tags */}
+      <Helmet>
+        <title>{property.title} | ₹{property.price.toLocaleString()} | {property.location}</title>
+        <meta
+          name="description"
+          content={`Explore ${property.title} located in ${property.location}. ₹${property.price.toLocaleString()} – ${property.bedrooms}, ${property.area}. Amenities: ${property.amenities.join(", ")}`}
+        />
+        <meta property="og:title" content={`${property.title} – ₹${property.price.toLocaleString()}`} />
+        <meta property="og:description" content={property.description.slice(0, 150)} />
+        <meta property="og:image" content={property.images?.[0] || "https://yourdomain.com/default-image.jpg"} />
+        <meta property="og:url" content={`https://yourdomain.com/property/${property.id}`} />
+        <meta property="og:type" content="article" />
+      </Helmet>
+
       {/* Carousel */}
       <div className="max-w-screen-xl mx-auto">
         <PropertyCarousel images={property.images} />

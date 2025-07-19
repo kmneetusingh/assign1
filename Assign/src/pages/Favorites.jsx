@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import PropertyCard from "../components/PropertyCard";
 import propertiesData from "../api/properties.json";
+import { Helmet } from "react-helmet-async"; // ✅ Import Helmet
 
 const Favorites = () => {
   const [favorites, setFavorites] = useState([]);
@@ -22,6 +23,22 @@ const Favorites = () => {
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10 mt-16 min-h-screen transition-all">
+      {/* ✅ Helmet SEO */}
+      <Helmet>
+        <title>My Favorite Properties | Real Estate UI</title>
+        <meta
+          name="description"
+          content="View all the real estate properties you've saved as favorites. Find your dream home from our curated selection."
+        />
+        <meta property="og:title" content="Favorite Property Listings" />
+        <meta
+          property="og:description"
+          content="Access your saved real estate favorites. Apartments, villas, and plots — all in one place."
+        />
+        <meta property="og:image" content="https://yourdomain.com/assets/og-favorites.jpg" />
+        <meta property="og:url" content="https://yourdomain.com/favorites" />
+      </Helmet>
+
       <h1 className="text-4xl font-bold text-gray-800 mb-8 border-b pb-4 tracking-tight">
         ❤️ Favorite Listings
       </h1>
