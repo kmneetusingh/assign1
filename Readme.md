@@ -2,7 +2,8 @@
 
 A responsive and scalable frontend for a mock real estate platform built with **React.js**. This project showcases properties in a grid layout, detailed view pages, a favorites system, and essential filters — simulating a real-world property listing interface.
 
-## 🎥 [**Video Demo**](https://github.com/user-attachments/assets/2e1d97d8-9ae3-4ed3-81d0-4fc49f47b3e2)
+## 🎥 Video Demo
+https://github.com/user-attachments/assets/2e1d97d8-9ae3-4ed3-81d0-4fc49f47b3e2
 
 
 # 🔗 [**Deployed on Vercel**](https://assign1-rho.vercel.app/)
